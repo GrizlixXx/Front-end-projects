@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+.green-text {
+  color: rgb(7, 176, 7);
+  margin: 14px 0 4px 0;
+}
+
+.blue-text {
+  font-size: 18px;
+  color: rgb(0, 124, 200);
+}
+
+li {
+  margin: 4px 0;
+}
